@@ -12,7 +12,7 @@ Tapping the background will change everything back to its default settings.
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/tGAeOhwb6N.gif" width=200><br>
+<img src="http://g.recordit.co/YpClKUx78z.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
